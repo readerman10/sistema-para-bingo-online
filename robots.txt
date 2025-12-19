@@ -1,0 +1,28 @@
+# robots.txt para Sorteio de Bingo Online Grátis
+# https://seudominio.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://seudominio.com/sitemap.xml
+
+# Crawl-delay (opcional, remover se não necessário)
+# Crawl-delay: 1
+
+# User-agents específicos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
