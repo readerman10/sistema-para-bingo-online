@@ -4,7 +4,9 @@
 
 ### 1. URLs e Domínio
 
-Substitua todas as ocorrências de `https://seudominio.com` nos seguintes arquivos:
+**✅ Domínio configurado**: `https://sistema-para-bingo-online.vercel.app`
+
+Arquivos já configurados com o domínio:
 
 - ✅ `index.html` (meta tags, Open Graph, Twitter Cards, Schema.org)
 - ✅ `sitemap.xml` (URLs do sitemap)
@@ -13,8 +15,7 @@ Substitua todas as ocorrências de `https://seudominio.com` nos seguintes arquiv
 **Como fazer:**
 ```bash
 # Use find/replace no seu editor
-# Buscar: https://seudominio.com
-# Substituir: https://seudominiodoreal.com
+# ✅ Já configurado: https://sistema-para-bingo-online.vercel.app
 ```
 
 ### 2. Favicons e Ícones
@@ -81,7 +82,7 @@ Se estiver usando Nginx, configure conforme o README.md.
 1. Acesse: https://search.google.com/search-console
 2. Adicione sua propriedade
 3. Verifique a propriedade (HTML tag, DNS, ou arquivo)
-4. Envie o sitemap: `https://seudominio.com/sitemap.xml`
+4. Envie o sitemap: `https://sistema-para-bingo-online.vercel.app/sitemap.xml`
 
 ### 7. Google Analytics (Opcional)
 

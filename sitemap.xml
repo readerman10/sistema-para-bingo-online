@@ -6,14 +6,14 @@
   
   <!-- Página Principal - Sorteio de Bingo Online Grátis -->
   <url>
-    <loc>https://seudominio.com/</loc>
+    <loc>https://sistema-para-bingo-online.vercel.app/</loc>
     <lastmod>2024-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>https://seudominio.com/sorteio-bingo-online-gratis</loc>
+    <loc>https://sistema-para-bingo-online.vercel.app/sorteio-bingo-online-gratis</loc>
     <lastmod>2024-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>

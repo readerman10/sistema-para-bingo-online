@@ -1,5 +1,5 @@
 # robots.txt para Sorteio de Bingo Online Grátis
-# https://seudominio.com/robots.txt
+# https://sistema-para-bingo-online.vercel.app/robots.txt
 
 User-agent: *
 Allow: /
@@ -8,7 +8,7 @@ Disallow: /*.json$
 Disallow: /api/
 
 # Sitemap
-Sitemap: https://seudominio.com/sitemap.xml
+Sitemap: https://sistema-para-bingo-online.vercel.app/sitemap.xml
 
 # Crawl-delay (opcional, remover se não necessário)
 # Crawl-delay: 1
